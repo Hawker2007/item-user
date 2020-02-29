@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": false,
+    "name": "item-user",
+    "author": "Alteria",
+    "description": "Automatically buy/use items uwu",
+    "options": {
+        "niceName": "Item User"
+    },
+    "servers": ["https://raw.githubusercontent.com/PsykoDev/item-user/master/"],
+	"supportUrl": "https://github.com/PsykoDev/item-user/issues"
+}
