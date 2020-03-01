@@ -8,6 +8,7 @@ module.exports = function ItemUser(mod) {
 		enabled = false,
 		grabItem = false,
 		tempID,
+		itemconfig,
 		contract,
 		amount,
 		doneBuying = false,
